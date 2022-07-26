@@ -5,4 +5,5 @@ This repository contains all of the notes taken by [Corey Young](https://github.
 
 ### Table of Contents
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+  * [Day 1](/Week_1/Day_1/)
+  * [Day 2](/Week_1/Day_2/)
